@@ -1,0 +1,1 @@
+const aibnbConfig = 3
